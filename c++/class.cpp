@@ -6,7 +6,7 @@ class student{
         int age;
         bool gend;
 
-        stduent(string s){
+        student(string s){
             name=s;
         }
         void set(string s){
